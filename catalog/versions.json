@@ -1,11 +1,23 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17",
+  "updated_at": "2026-10-18",
   "applications": [
     {
       "id": "neurix-ai",
       "name": "Neurix AI",
-      "releases": []
+      "releases": [
+        {
+          "version": "1.0.3",
+          "channel": "beta",
+          "platform": "windows-x64",
+          "filename": "NeurixAI-Beta-1.0.3-Setup.exe",
+          "download_url": "https://github.com/momo49400/Neurix-Group-Releases/releases/download/neurix-ai-beta-1.0.3/NeurixAI-Beta-1.0.3-Setup.exe",
+          "sha256": "bd9be7e29c1cb9806c3d61d19760536b5dc28773e249f84befcc656897b25901",
+          "size_bytes": 27969746,
+          "released_at": "2026-10-18",
+          "notes": "Nova Thinking Fix. Requires Ollama."
+        }
+      ]
     }
   ]
 }
