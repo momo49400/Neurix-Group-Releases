@@ -7,6 +7,17 @@
       "name": "Neurix AI",
       "releases": [
         {
+          "version": "1.1",
+          "channel": "beta",
+          "platform": "windows-x64",
+          "filename": "NeurixAI-Beta-1.1-Setup.exe",
+          "download_url": "https://github.com/momo49400/Neurix-Group-Releases/releases/download/neurix-ai-beta-1.1/NeurixAI-Beta-1.1-Setup.exe",
+          "sha256": "6e75228ba6eb1f782a61ba0138b47e7fdc44c97e28086f480d2f6862ca8ce353",
+          "size_bytes": 34040327,
+          "released_at": "2026-10-18",
+          "notes": "Work Foundation beta. Requires Ollama. Windows installer; code signing not yet verified."
+        },
+        {
           "version": "1.0.3",
           "channel": "beta",
           "platform": "windows-x64",
